@@ -1,0 +1,49 @@
+﻿  Source.cpp
+D:\codes\C\testcv\Source.cpp(229,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\codes\C\testcv\Source.cpp(230,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\codes\C\testcv\Source.cpp(231,28): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\codes\C\testcv\Source.cpp(231,24): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\codes\C\testcv\Source.cpp(234,49): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\codes\C\testcv\Source.cpp(234,45): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\codes\C\testcv\Source.cpp(234,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\codes\C\testcv\Source.cpp(243,18): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'unsigned __int64'
+D:\codes\C\testcv\Source.cpp(243,18): message : consider using '%zd' in the format string
+D:\codes\C\testcv\Source.cpp(362,55): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\codes\C\testcv\Source.cpp(363,55): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\codes\C\testcv\Source.cpp(364,55): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\codes\C\testcv\Source.cpp(574,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\codes\C\testcv\Source.cpp(575,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\codes\C\testcv\Source.cpp(576,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\codes\C\testcv\Source.cpp(577,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\codes\C\testcv\Source.cpp(673,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\codes\C\testcv\Source.cpp(674,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\codes\C\testcv\Source.cpp(675,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  testcv.vcxproj -> D:\codes\C\testcv\x64\Debug\testcv.exe
