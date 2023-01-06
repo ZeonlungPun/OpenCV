@@ -1,6 +1,6 @@
 # OpenCV
 
-subject in C++:
+projects in C++:
 
 1: Car detect: subtract background, recognize contour , touch the base line
 
